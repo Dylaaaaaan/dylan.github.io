@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to math lovers club
 
 You can use the [editor on GitHub](https://github.com/Dylaaaaaan/dylan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
